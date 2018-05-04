@@ -1,3 +1,8 @@
+
+
+
+### This code is associated with the paper from Gilra et al., "Predicting non-linear dynamics by stable local learning in a recurrent spiking neural network". eLife, 2017. http://dx.doi.org/10.7554/eLife.28295
+
 # FOLLOW
 Feedback-based Online Local Learning Of Weights (FOLLOW)
 
